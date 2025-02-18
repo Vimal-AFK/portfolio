@@ -1,0 +1,10 @@
+body{
+    background: rgb(0, 0, 16);
+}
+
+.IntroPage {
+    background: rgb(0, 75, 75);
+    height: 96vh;
+    padding: 50px;
+    border-radius: 15px;
+}
